@@ -1,0 +1,26 @@
+
+.section1{
+    margin-top: 5rem;
+}
+
+.vertical{
+    display: table;
+    position: relative;
+    left: -74px;
+    top: 52px;
+    transform: rotate(-90deg);
+    font-size: 14px;
+    word-spacing: 8px;
+    color: $igeeks;
+}
+@media screen and (max-width: 600px) {
+    .vertical{
+        display: table;
+        position: relative;
+        left: -74px;
+        top: 52px;
+        transform: rotate(-90deg);
+        font-size: 14px;
+        word-spacing: 8px;
+    }
+  }

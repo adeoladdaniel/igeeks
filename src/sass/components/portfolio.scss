@@ -1,0 +1,33 @@
+.portfolioslider{
+
+    margin-top: 10rem;
+    padding: 1rem;
+    background: #f2f2f282;
+}
+.portbut{
+    border: none;
+    padding: 0.4rem 3rem 0.4rem 3rem;
+    border-radius: 2rem;
+    color: white;
+    background: $igeeks;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    position: relative;
+    -webkit-transition: all linear 400ms;
+    transition: all linear 400ms;
+}
+
+.portbut:hover{
+    background-color: white;
+    color: $igeeks;
+    border: solid 1px;
+    border-color: $igeeks;
+}
+.portfolio-head > hr{
+    display: block;
+    /* margin-left: auto; */
+    height: 0.3rem;
+    background: $igeeks;
+    /* margin-right: auto; */
+    width: 19%;
+}
