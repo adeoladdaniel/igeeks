@@ -20,15 +20,21 @@
     margin-top: 1rem;
 }
 
-.foot-but{
-    
-        padding: 0.5rem 3rem 0.5rem 3rem;
-        border: none;
-        background: #00AFEF;
-        color: white;
-        box-shadow: white -0.5rem 0.5rem 0rem 0rem;
+.foot-but {
+    padding: 0.5rem 3rem 0.5rem 3rem;
+    border: none;
+    background: #00AFEF;
+    color: white;
+    border-radius: 2rem;
+    transition: ease-in 300ms;
+    /* box-shadow: white -0.5rem 0.5rem 0rem 0rem; */
 }
-
+.foot-but:hover {
+    background-color: white;
+    color: #00afef;
+    border: solid 1px;
+    border-color: #00afef;
+}
 @media screen and (max-width: 960px) {
     .foot {
         padding: 5rem 0rem 5rem 0rem;

@@ -35,7 +35,7 @@ class  Testimonial extends React.Component{
 
     <Carousel.Caption>
       <h3>Feedback</h3>
-      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+      <p>We have been using MPPTIMER for our conferences and short courses for about 3 years and the software has helped to organise and keep to time during powerpoint presentation </p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -47,7 +47,11 @@ class  Testimonial extends React.Component{
 
     <Carousel.Caption>
       <h3>Feedback</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <p>
+                  iRegisterKids has really made check-In and check-out kids faster and easier,
+                  what we love most is the classroom andriod TV app which updates child list in real time. 
+                  great product from iGeeksNG. 
+                </p>
     </Carousel.Caption>
   </Carousel.Item>
 

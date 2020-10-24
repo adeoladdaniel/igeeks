@@ -21,7 +21,7 @@ class  Footer extends React.Component{
        </h5>
        <br/>
        <br/>
-       <p>Lorem  ipsum dolo sit Lorem  ipsum dolo sit<br/>  Lorem  ipsum dolo sit </p>
+       <p></p>
        <br/>
        <br/>
     

@@ -1,0 +1,36 @@
+.blender{
+    background: url(../../img/cover10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    // height: 50vh;
+    width: 100%;
+    padding: 2rem;
+    
+  }
+  .blendercard{
+
+    background: rgba(61, 68, 68, 0.5);
+    padding: 25px 50px;
+    height: 15rem;
+    -webkit-transition: all 400ms linear;
+    transition: all 400ms linear;
+    border-radius: 4px;
+    text-align: center;
+    color: $igeeks;
+    margin: 1rem;
+   
+
+  }
+
+  .blendercard:hover{
+      background: $igeeks;
+      color: white;
+      i{
+          padding-bottom: 2rem;
+      }
+
+  }
+  .blendercard > i{
+    -webkit-transition: all 400ms linear;
+  }

@@ -1,0 +1,75 @@
+.c-header{
+    background: url(../../img/cover9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    width: 100%;
+    
+  }
+  .contact_bk{
+    /* background:  url(../../img/Group25.png); */
+    background-repeat: no-repeat;
+    height: 84vh;
+    width: 100%;
+    
+    
+    }
+    .contact_header{
+    
+        text-align: center;
+        margin: 4rem 2rem 11rem 2rem;
+    }
+    .contact_form{
+        padding: 7rem;
+        margin: 7rem 0rem 2rem 0rem;
+        background-color: #00AFEF;
+        text-align: center;
+        
+    }
+    .temple{
+        text-align: center;
+    }
+    .templar{color: #00AFEF;
+        font-size: 6rem;}
+    
+    .inputer{
+    
+        padding: 1rem;
+        margin: 1rem;
+        width: 31rem;
+        outline: none;
+    }
+    textarea{
+    
+        width: 100%;
+    }
+    .contact-but{
+        padding: 0.5rem 3rem 0.5rem 3rem;
+        border: solid;
+        background: #00AFEF;
+        color: white;
+        box-shadow: white -0.5rem 0.5rem 0rem 0rem;
+    }
+    .texter{
+    
+            width: 64rem;
+        height: 10rem;
+        outline: none;
+    }
+    @media screen and (max-width: 600px) {
+        .inputer {
+                width: 100%;
+    
+        }
+    
+        .texter{
+            width: 100%;
+        
+        }
+    
+        .contact_form{
+            text-align: center;
+            padding:1rem;
+        }
+      }

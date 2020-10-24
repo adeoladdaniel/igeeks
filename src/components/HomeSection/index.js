@@ -23,9 +23,11 @@ class  HomeSection extends React.Component{
                        </div>
                        </Col>
                        <Col md={6}>
-                      <p>Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<br/><br/>
+                      <p>iGeeksNG is an evolving company, providing enterprise ICT services to mid range and large scale companies and organisations in Nigeria and USA.
 
-                          It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+Our passion, zeal, teamwork combined with our quest for innovative solutions and passion to deliver an exceptional customer experience, have been rewarding and have earned us an enormous amount of goodwill despite the highly competitive terrain of our business environment.
+
+As a complete ICT Services and Infrastructure provider we remain committed to delivering ICT solutions that make IT simpler faster and better!</p>
                        </Col> 
 
                      </Row>

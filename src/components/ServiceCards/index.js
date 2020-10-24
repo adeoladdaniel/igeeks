@@ -60,10 +60,10 @@ class  ServiceCards extends React.Component{
                      </Row>
                    </Container>
                    <div className="card-but-text">
-                   <button className="card-but">
+                   <a href="about"><button className="card-but">
                      Learn More
                    </button>
-
+                  </a>
                    </div>
                  </div>
         </React.Fragment>

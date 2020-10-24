@@ -13,6 +13,7 @@
 @import "./components/portfolio.scss";
 @import "./components/testimonial.scss";
 @import "./components/footer.scss";
+@import "./components/blender.scss";
 
 // import layout folder
 @import "./layout/skipcontent";
@@ -28,7 +29,8 @@
 @import "./components/navbar.scss";
 // import pages folder
 @import "./pages/home";
-@import "./pages/details";
+@import "./pages/about";
+@import "./pages/contact";
 // @import "./pages/login";
 // @import "./pages/student-form";
 // @import "./pages/service-charge";
