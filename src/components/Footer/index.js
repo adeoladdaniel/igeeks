@@ -26,18 +26,8 @@ class  Footer extends React.Component{
        <br/>
     
       
-       <h5 style={{color:"#00AFEF"}}>
-        <b> CONTACT US </b> 
-        </h5>
-        <br/>
-       <br/>
-       <span><i style={{fontSize:"1.5rem", color:"#00AFEF"}} className="fa fa-phone"> </i>+2349052085121
-    </span>
-    <br/>
-    <br/>
-    <span><i style={{fontSize:"1.5rem", color:"#00AFEF"}} className="fa fa-envelope"> </i>contact@igeeksng.com
-    </span>
-        
+    
+   
 
        </Col>
         <br/>
@@ -52,10 +42,10 @@ class  Footer extends React.Component{
     <div >
         <br/>
    
-       <h5>ABOUT</h5>
+      <a href="/about"> <h5 style={{color:"white"}} >ABOUT</h5></a>
        <br/>
  
-       <h5>CONTACT</h5>
+    <a href="/contact">  <h5 style={{color:"white"}}  >CONTACT</h5></a>
        
        </div>
        
@@ -64,19 +54,17 @@ class  Footer extends React.Component{
        <br/>
        <br/>
        <Col md={4}>
-       <h5>
-          Suscribe to our Newsletter
-       </h5>
-    <div>
-    <br/>
+       <h5 style={{color:"#00AFEF"}}>
+        <b> CONTACT US </b> 
+        </h5>
+        <br/>
        <br/>
-   <input></input>
-   <br/>
-   <br/>
-   <button className="foot-but">
-       Suscribe
-   </button>
-       </div>
+       <span><i style={{fontSize:"1.5rem", color:"#00AFEF"}} className="fa fa-phone"> </i>+2349052085121
+    </span>
+    <br/>
+    <br/>
+    <span><i style={{fontSize:"1.5rem", color:"#00AFEF"}} className="fa fa-envelope"> </i>contact@igeeksng.com
+    </span>
        
        </Col>
    </Row>

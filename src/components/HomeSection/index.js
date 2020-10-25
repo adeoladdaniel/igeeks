@@ -25,9 +25,9 @@ class  HomeSection extends React.Component{
                        <Col md={6}>
                       <p>iGeeksNG is an evolving company, providing enterprise ICT services to mid range and large scale companies and organisations in Nigeria and USA.
 
-Our passion, zeal, teamwork combined with our quest for innovative solutions and passion to deliver an exceptional customer experience, have been rewarding and have earned us an enormous amount of goodwill despite the highly competitive terrain of our business environment.
+                  Our passion, zeal, teamwork combined with our quest for innovative solutions and passion to deliver an exceptional customer experience, have been rewarding and have earned us an enormous amount of goodwill despite the highly competitive terrain of our business environment.
 
-As a complete ICT Services and Infrastructure provider we remain committed to delivering ICT solutions that make IT simpler faster and better!</p>
+                                As a complete ICT Services and Infrastructure provider we remain committed to delivering ICT solutions that make IT simpler faster and better!</p>
                        </Col> 
 
                      </Row>

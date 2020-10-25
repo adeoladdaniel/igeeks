@@ -31,11 +31,11 @@ class  Portfolio extends React.Component{
                              <Col md={6}>
                                     <Carousel>
                                         <Carousel.Item>
-                                            <img
+                                      <a href="https://iregisterkids.com/">      <img
                                             className="d-block w-100"
                                             src="./asset/img/slider1.png"
                                             alt="First slide"
-                                            />
+                                            /></a>
                                           
                                         </Carousel.Item>
                                         <Carousel.Item>
@@ -59,14 +59,55 @@ class  Portfolio extends React.Component{
                             </Col>
                                     
                             <Col md={6}>
+
+                                        <Carousel>
+            <Carousel.Item>
+                <img
+                className="d-block w-100"
+                src="./asset/img/q01.png"
+                alt="First slide"
+                />
+                <Carousel.Caption className="carousel">
+            
+                <p> </p>
+                </Carousel.Caption>
+            </Carousel.Item>
+            <Carousel.Item>
+                <img
+                className="d-block w-100"
+                src="./asset/img/q02.png"
+                alt="Third slide"
+                />
+
+                <Carousel.Caption className="carousel">
+              
+                <p></p>
+                </Carousel.Caption>
+            </Carousel.Item>
+            <Carousel.Item>
+                <img
+                className="d-block w-100"
+                 src="./asset/img/q03.png"
+                alt="Third slide"
+                />
+
+                <Carousel.Caption className="carousel">
+             
+                <p>.</p>
+                </Carousel.Caption>
+            </Carousel.Item>
+            </Carousel>
                             <div>
-                                        <h1 style={{color: "#dddddd"}}>O1</h1>
+                                        {/* <h1 style={{color: "#dddddd"}}>O1</h1>
                                         <br/>
 
                                         <h3>Your Technical Partner Towards Web Success.</h3><br/>
 
                                         <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
-                                  
+                                   */}
+                                   <br/>
+                                   <br/>
+                                   <br/>
                                    <button className="portbut">
                                        Get started
                                    </button>

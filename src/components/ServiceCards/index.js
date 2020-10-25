@@ -39,9 +39,9 @@ class  ServiceCards extends React.Component{
                                 </span>
                              
 
-                                <h6> DEVLOPMENT SERVICES</h6>
+                                <h6> MARKETING SERVICES</h6>
                                 <hr/>
-                                <p>We have years of expereince in desktop application developmeand our products speeks.</p>
+                                <p>We are expert in online marketing using latest technique and technologies like Google Adwords, Facebook Marketing, Youtube Video ads, mobile adverts and other social media plateforms.</p>
                             </div>
                        </Col> 
 
@@ -52,9 +52,9 @@ class  ServiceCards extends React.Component{
                                 </span>
                         
 
-                                <h6> DEVLOPMENT SERVICES</h6>
+                                <h6> CLOUD SERVICES</h6>
                                 <hr/>
-                                <p>We have years of expereince in desktop application developmeand our products speeks.</p>
+                                <p>Web Hosting, Dedicated Servers, Data Servers etc</p>
                             </div>
                      </Col> 
                      </Row>
