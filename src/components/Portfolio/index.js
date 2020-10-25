@@ -108,9 +108,9 @@ class  Portfolio extends React.Component{
                                    <br/>
                                    <br/>
                                    <br/>
-                                   <button className="portbut">
+                                   {/* <button className="portbut">
                                        Get started
-                                   </button>
+                                   </button> */}
                                     </div>
                             </Col>
                         </Row>                

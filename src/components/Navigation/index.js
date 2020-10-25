@@ -13,9 +13,9 @@ class Navigation extends React.Component {
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     
-    <Nav className="ml-auto pet">
-      <Nav.Link href="about">About</Nav.Link>
-      <Nav.Link href="contact" >
+    <Nav className="ml-auto pet" style={{lineHeight:"3rem"}}>
+      <Nav.Link active href="about">About</Nav.Link>
+      <Nav.Link active href="contact" >
         Contact Us
       </Nav.Link>
     </Nav>

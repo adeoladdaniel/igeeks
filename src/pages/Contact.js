@@ -41,7 +41,7 @@ function Contact (){
 
                       <p><b>Africa</b></p>
                       <p> +1 (317) 869-2103</p>
-                    <p>No. 2 Sankore Street, Univrsity of Ibadan, Ibadan Nigeria.</p>
+              
 
              
                     </Col>

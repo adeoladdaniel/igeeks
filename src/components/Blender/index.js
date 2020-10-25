@@ -63,7 +63,7 @@ class  Blender extends React.Component{
                       <br/> <br/>
                       <div style={{color:"white"}}>
                                      <h2>2</h2>
-                                 <p >AWARD WON</p>
+                                 <p >AWARDS WON</p>
                                  </div>
                       </div>
                       </Col>
