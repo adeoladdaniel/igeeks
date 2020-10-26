@@ -54,7 +54,7 @@ function Contact (){
 
                     <p><b>Ibadan Nigeria</b></p>
                 
-                    <p>No. 2 Sankore Street, Univrsity of Ibadan, Ibadan Nigeria.</p>
+                    <p>No. 2 Sankore Street, University of Ibadan, Ibadan Nigeria.</p>
                     </Col>
                     
                     <Col md={4}>

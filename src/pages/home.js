@@ -27,7 +27,7 @@ function Home (){
             <h3 className="header-text-sub">WELCOME TO THE FUTURE</h3>
 
             <div class="wrapper">
-               <button className="headerbut">Get Started</button>
+             <a href="/about">  <button className="headerbut">Get Started</button></a>
             </div>
           </header>
             <HomeSection/>
